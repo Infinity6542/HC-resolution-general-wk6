@@ -1,3 +1,4 @@
 *.out
 .wakatime-project
 .git
+line_plotter
